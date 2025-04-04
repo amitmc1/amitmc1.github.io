@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Amit Chaudhari's Research</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+            font-size: 18px;
+            color: #000;
+        }
+
+        h1, h2 {
+            font-size: 24px;
+            margin: 0;
+        }
+
+        .box-header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 50px;
+            text-align: center;
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .header h1 {
+            margin-right: 20px;
+        }
+
+        .social-links {
+            display: flex;
+            align-items: center;
+        }
+
+        .social-links a {
+            margin: 0 15px;
+        }
+
+        .social-links img {
+            width: 40px;
+            height: 40px;
+        }
+
+        .cv-button {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #0073e6;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            margin-left: 15px;
+        }
+
+        .cv-button:hover {
+            background: #005bb5;
+        }
+
+        .intro-wrapper {
+            display: flex;
+            gap: 20px;
+            margin-top: 30px;
+            align-items: stretch;
+        }
+
+        .container, .side-box {
+            background: white;
+            padding: 15px 20px 10px 20px; /* reduced bottom padding */
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+
+        .container {
+            flex: 2;
+        }
+
+        .side-box {
+            flex: 1;
+            gap: 10px;
+        }
+
+        .container-content {
+            display: flex;
+            align-items: stretch;
+        }
+
+        .image-container {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .text-container {
+            flex: 2;
+            padding-left: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        img {
+            width: 220px;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        .side-box ul {
+            list-style-type: disc;
+            padding-left: 20px;
+            margin: 0 0 10px 0;
+        }
+
+        .side-box ul li {
+            margin: 10px 0;
+        }
+
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .section {
+            margin-top: 40px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .section ul {
+            padding-left: 20px;
+        }
+
+        .section ul li {
+            margin: 10px 0;
+        }
+
+        @media (max-width: 1000px) {
+            .intro-wrapper {
+                flex-direction: column;
+            }
+
+            .container, .side-box {
+                width: 100%;
+            }
+
+            .text-container {
+                padding-left: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <h1>Amit Chaudhari</h1>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/amit-chaudhari-4b831714a/" target="_blank">
+                <img src="Linkedin.png" alt="LinkedIn Logo">
+            </a>
+            <a href="mailto:ChaudhariA@Cardiff.ac.uk">
+                <img src="Mail.png" alt="Email Logo">
+            </a>
+            <a href="CV_AmitChaudhari.pdf" target="_blank" class="cv-button">Download CV</a>
+        </div>
+    </div>
+
+    <!-- Introduction and Software Section -->
+    <div class="intro-wrapper">
+        <!-- Introduction -->
+        <div class="container">
+            <div class="container-content">
+                <div class="image-container">
+                    <img src="thumbnail_IMG_8149.jpg" alt="Your Picture">
+                </div>
+                <div class="text-container">
+                    <div class="box-header">
+                        <h2>Introduction</h2>
+                    </div>
+                    <p>I am a PhD researcher in Computational Chemistry at <a href="https://logsdail.github.io/" target="_blank">Cardiff University</a>, where I integrate quantum mechanical modelling with advanced machine learning approaches, <em>e.g.</em>, symbolic regression, deep neural networks and large language models, to develop cost-effective and transferable workflows for materials modelling. My work forms part of the Prosperity Partnership <a href="https://gtr.ukri.org/projects?ref=EP%2FV056565%2F1" target="_blank">Sustainable Catalysis for Clean Growth</a>, collaborating with partners in industry (Johnson Matthey and <a href="https://www.icam-online.org/videos/achieving-net-zero-sustainable-catalysis-for-clean-growth/" target="_blank">bp, through the bp-ICAM</a>) and academia (University of Manchester) to advance catalyst technologies for the transition to net zero.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Software Box -->
+        <div class="side-box">
+            <div class="box-header">
+                <h2>Software & Libraries</h2>
+            </div>
+            <ul>
+                <li>Quantum Chemistry: VASP and FHI-aims</li>
+                <li>Materials Modelling: ASE, Pymatgen, DScribe</li>
+                <li>Monte Carlo: SuSMoST</li>
+                <li>Machine Learned Interatomic Potentials: MACE</li>
+                <li>Optimisation Algorithms: SISSO++, PyTorch, GPyOpt, Scikit-learn</li>
+                <li>Large Language Models: GPT-4o, Mathstral-7B</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Research Interests -->
+    <div class="section research-interests">
+        <div class="box-header">
+            <h2>Research Interests and Experience</h2>
+        </div>
+        <ul>
+            <li>Electronic structure modelling of complex oxides using <a href="https://github.com/amitmc1/Hubbardprojectors" target="_blank">DFT+<em>U</em></a>
+            <li>Machine learning transferable DFT functionals</li>             
+            <li>Multiscale modelling using machine learned interatomic potentials</li>
+            <li>Leveraging state-of-the-art algorithms, <em>e.g.</em>, symbolic regression, support vector machines, Bayesian optimisation, deep neural networks and large language models</li>
+            <li>High performance computing on CPU and GPU nodes</li>
+            <li>Collaborating with experimental researchers to validate theoretical predictions and extract useful information <em>e.g.</em>, rationalising paramagnetic defect states observed in EPR spectroscopy and tracking dynamic oxidation state changes during XANES spectroscopy</li>
+        </ul>
+    </div>
+
+    <!-- Conference Oral Presentations -->
+    <div class="section contributions">
+        <div class="box-header">
+            <h2>Conference Oral Presentations</h2>
+        </div>
+        <ul>
+            <li>Machine learning the DFT+<em>U</em> projectors to model polarons in energy materials: FHI-aims UK Developers’ and Users’ Meeting, 2024 and the Materials Chemistry Consortium Conference, 2024</li>
+            <li>Designing catalysts for Net-Zero 2050 using first-principles computational modelling: Cardiff Chemistry Conference, 2024</li>
+            <li>Accurate modelling of n-type doped TiO<sub>2</sub> polymorphs using DFT+<em>U</em> with occupation matrix control: Materials Chemistry Consortium Workshop on the Modelling Point Defects, 2024</li>
+            <li>A computational study of the adsorption and activation of H<sub>2</sub>, CO and CO<sub>2</sub> on stoichiometric CeO<sub>2</sub>(110) supported Cu<sub>1–3</sub> nanoclusters: World Congress in Oxidation Catalysis, 2022</li>
+        </ul>
+    </div>
+
+    <!-- Industry Oral Presentations -->
+    <div class="section contributions">
+        <div class="box-header">
+            <h2>Industry Oral Presentations</h2>
+        </div>
+        <ul>
+            <li>Machine learning algorithms for simulating realistic catalytic reaction environments: Johnson Matthey and bp (Prosperity Partnership), 2025</li>
+            <li>Combining DFT, global optimisation and machine learning to understand metal oxide support effects in catalysis: Johnson Matthey Computational Modelling Group, 2024</li>
+            <li>Sustainable Catalysis for Clean Growth – Advanced Methods: bp International Centre for Advanced Materials Annual Conference, 2023</li>
+        </ul>
+    </div>
+
+    <!-- Poster Presentations -->
+    <div class="section contributions">
+        <div class="box-header">
+            <h2>Conference Poster Presentations</h2>
+        </div>
+        <ul>
+            <li>Advancing <em>ab initio</em> materials modelling using symbolic regression and large language models: CECAM Machine Learning for Materials Discovery workshop, 2025</li>
+            <li><a href="TYC Poster.pdf" target="_blank">Machine learning generalised DFT+<em>U</em> projectors to model polarons in catalyst and battery materials</a>: Thomas Young Centre 7th Energy Materials workshop, 2024</li>
+            <li><em>Ab initio</em> adsorption phase diagrams using DFT-parameterised Monte Carlo methods: STFC CCP5 Annual General Meeting, 2023</li>
+        </ul>
+    </div>
+
+    <!-- Publications -->
+    <div class="section publications">
+        <div class="box-header">
+            <h2>Publications</h2>
+        </div>
+        <p>Coming soon! (Submitted for Review)</p>
+    </div>
+</body>
+</html>
+
+
+
