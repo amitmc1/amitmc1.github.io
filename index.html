@@ -70,6 +70,40 @@
             align-items: stretch;
         }
 
+        /* New layout for Research + GitHub section */
+.research-wrapper {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+    align-items: stretch;
+}
+
+/* Match same proportions as top two boxes */
+.research-wrapper .container {
+    flex: 2;
+}
+
+.research-wrapper .side-box {
+    flex: 1;
+}
+
+/* Button-style links for repositories */
+.side-box ul li a {
+    display: inline-block;
+    background-color: #0073e6;
+    color: white;
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background 0.2s ease;
+}
+
+.side-box ul li a:hover {
+    background-color: #005bb5;
+    text-decoration: none;
+}
+        
         .container, .side-box {
             background: white;
             padding: 10px 15px 5px 15px; /* less bottom padding (5px) */
