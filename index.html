@@ -201,6 +201,36 @@
                 padding-left: 0;
             }
         }
+
+        /* === PATCH: consistent spacing + responsive layout === */
+.box-header {
+    margin-bottom: 15px; /* equal vertical spacing below header */
+}
+
+.container ul,
+.side-box ul {
+    list-style-type: disc;
+    padding-left: 40px;
+    margin-top: 0;  /* ensures consistent spacing to header */
+    margin-bottom: 10px;
+}
+
+@media (max-width: 1000px) {
+    .intro-wrapper,
+    .research-wrapper {
+        flex-direction: column;
+    }
+
+    .container,
+    .side-box {
+        width: 100%;
+    }
+
+    .text-container {
+        padding-left: 0;
+    }
+}
+
     </style>
 </head>
 <body>
