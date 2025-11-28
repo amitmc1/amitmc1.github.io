@@ -1,0 +1,40 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+      - run: |
+          bundle install
+          bundle exec jekyll build --baseurl "${{ github.event.workflow_run.head_sha }}"
+        env:
+          JEKYLL_ENV: production
+      - uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
