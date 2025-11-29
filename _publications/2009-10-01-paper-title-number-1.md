@@ -4,14 +4,12 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 
-excerpt: "We present machine learning-based workflows using symbolic regression and support vector machines to simulataneously optimise Hubbard <em>U</em> values and projectors, enabling accurate and efficient simulations of defects and polarons in transition metal and rare-earth oxides. [Click to read the full abstract]"
+excerpt: "We present machine learning-based workflows using symbolic regression and support vector machines to simulataneously optimise Hubbard <em>U</em> values and projectors, enabling accurate and efficient simulations of defects and polarons in transition metal and rare-earth oxides."
 
 date: 2025-10-30
 venue: 'Digital Discovery'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'A. Chaudhari, K. Agrawal and A. J. Logsdail, Machine learning generalised DFT+<em>U</em> projectors in a numerical atom-centred orbital framework, <em>Digital Discovery</em>, 2025, DOI: 10.1039/D5DD00292C.'
 ---
 ## Abstract
 
