@@ -1,7 +1,7 @@
 ---
 title: "<em>Ab Initio</em> Insights into Support-Induced Sulfur Resistance of Ni-Based Reforming Catalysts"
 collection: publications
-category: conferences
+category: pre-prints
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
