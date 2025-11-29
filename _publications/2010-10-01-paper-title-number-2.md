@@ -3,12 +3,13 @@ title: "Mixture-of-Experts Transformers for Faithfully Deorbitalized Meta-GGA De
 collection: publications
 category: pre-prints
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'ChemRxiv'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+excerpt: "We adopt a physics-informed deep learning approach to reparameterise popular semi-local meta-GGA density functionals into non-local deorbitalized surrogates that more faithfully mimic their orbital-dependent parent functionals. This is achieved using a Mixture-of-Experts transformers architecture that uses multi-head self-attention and automatic differentiation to accurately predict exchange energy densities and partial derivatives across a diverse set of molecules and materials. The architecture is designed to replace the expensive feature-dependent non-locality, introduced using the orbital-dependent kinetic energy density, with architectural non-locality implemented using attention."
+
+date: 2025-10-30
+venue: 'ChemRxiv'
+citation: 'A. Chaudhari and A. J. Logsdail, Mixture-of-Experts Transformers for Faithfully Deorbitalized Meta-GGA Density Functionals, <em>ChemRxiv<em>, 2025, DOI: 10.26434/chemrxiv-2025-mrgzj-v2'
+---
+## Abstract
+
+Meta-GGA density functional theory (DFT) is an important method in <em>ab initio</em> materials modelling; however, its computational cost limits applicability for generating large datasets or simulating extended length and time scales, as necessary for modern materials discovery. Deorbitalization is a promising strategy to accelerate meta-GGA DFT by removing the explicit orbital dependence of the exchange-correlation energy and potential using an approximation for the non-local kinetic energy density. Currently, achieving both accuracy and stability in practical deorbitalized simulations remains challenging, as many popular exchange-correlation density functionals are rigidly structured and inherently resistant to deorbitalization. These challenges motivate the need to understand the adaptability of traditional density functionals and to develop more advanced strategies for their design. Guided by this understanding, we adopt a physics-informed deep learning approach to reparameterize popular semi-local meta-GGA density functionals into non-local deorbitalized surrogates that more faithfully mimic their orbital-dependent parent functionals. Our approach is investigated for the deorbitalization of the MS2 exchange density functional of Sun <em>et al.</em> (DOI: 10.1063/1.4789414) using a transformer encoder that leverages multi-head self-attention and automatic differentiation to accurately predict exchange energy densities and partial derivatives across real-space integration grids. The outcome is a deep learning-based procedure for deorbitalizing meta-GGA density functionals that generalizes across diverse chemical bonding environments in both molecules and materials using a sparse mixture-of-experts model. The work shows the potential of advanced deep learning architectures towards constructing accurate surrogate models of expensive electronic structure methods, whilst outlining a path towards robust deorbitalized simulations of molecules and solids.
