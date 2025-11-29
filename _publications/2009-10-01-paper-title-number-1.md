@@ -8,7 +8,7 @@ excerpt: "We present machine learning-based workflows using symbolic regression 
 
 date: 2025-10-30
 venue: 'Digital Discovery'
-citation: 'A. Chaudhari, K. Agrawal and A. J. Logsdail, Machine learning generalised DFT+<em>U</em> projectors in a numerical atom-centred orbital framework, <em>Digital Discovery</em>, 2025, DOI: 10.1039/D5DD00292C.'
+citation: 'A. Chaudhari, K. Agrawal and A. J. Logsdail, Machine learning generalised DFT+<em>U</em> projectors in a numerical atom-centred orbital framework, <em>Digital Discovery</em>, 2025, DOI: 10.1039/D5DD00292C'
 ---
 ## Abstract
 
