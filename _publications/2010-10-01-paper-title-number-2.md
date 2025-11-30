@@ -12,7 +12,7 @@ citation: 'A. Chaudhari and A. J. Logsdail, Mixture-of-Experts Transformers for 
 ---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/MoE_abstract.png" alt="Graphical Abstract" style="max-width: 400px; width: 100%; border-radius: 0px;">
+  <img src="{{ site.baseurl }}/images/MoE_abstract.png" alt="Graphical Abstract" style="max-width: 600px; width: 100%; border-radius: 0px;">
 </p>
 
 ## Abstract
