@@ -2,7 +2,7 @@
 title: "Machine Learning Generalised DFT+<em>U</em> Projectors in a Numerical Atom-Centred Orbital Framework"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-10-30-ML-hubbard-projectors
 
 excerpt: "We present machine learning-based workflows using symbolic regression and support vector machines to simulataneously optimise Hubbard <em>U</em> values and projectors, enabling accurate and efficient simulations of defects and polarons in transition metal and rare-earth oxides."
 
@@ -12,7 +12,7 @@ citation: 'A. Chaudhari, K. Agrawal and A. J. Logsdail, Machine learning general
 ---
 
 <p align="center">
-  <img src="{{ base_path }}/images/DD_abstract.png" alt="Graphical Abstract" style="max-width: 700px; width: 100%; border-radius: 0px;">
+  <img src="{{ site.baseurl }}/images/DD_abstract.png" alt="Graphical Abstract" style="max-width: 700px; width: 100%; border-radius: 0px;">
 </p>
 
 ## Abstract
