@@ -5,7 +5,7 @@ category: pre-prints
 share: false
 permalink: /publication/2025-10-30-metagga-transformers
 
-excerpt: "We adopt a physics-informed deep learning approach to reparameterise popular semi-local meta-GGA density functionals into non-local deorbitalized surrogates that more faithfully mimic their orbital-dependent parent functionals. This is achieved using a Mixture-of-Experts transformers architecture that uses multi-head self-attention and automatic differentiation to accurately predict exchange energy densities and partial derivatives across a diverse set of molecules and materials. The architecture is designed to replace the expensive feature-based non-locality, from the orbital-dependent kinetic energy density, with architectural non-locality implemented using attention."
+excerpt: "We adopt a physics-informed deep learning approach to reparameterise popular semi-local meta-GGA density functionals into non-local deorbitalized surrogates that more faithfully mimic their orbital-dependent parent functionals. This is achieved using a Mixture-of-Experts transformers architecture that uses multi-head self-attention and automatic differentiation to accurately predict exchange energy densities and partial derivatives across a diverse set of molecules and materials. The architecture is designed to replace the expensive feature-based non-locality from the orbital-dependent kinetic energy density with architectural non-locality implemented using attention."
 
 date: 2025-10-30
 venue: 'ChemRxiv (DOI: 10.26434/chemrxiv-2025-mrgzj-v2)'
