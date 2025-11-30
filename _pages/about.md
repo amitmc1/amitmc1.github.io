@@ -25,7 +25,7 @@ I have recently completed my <strong>PhD in computational chemistry</strong> at 
 
   <li>Applied large language models for high-dimensional optimisation problems and generative molecular modelling.</li>
 
-  <li>High-performance computing on CPU and GPU architectures; validating theoretical predictions and extracting insights from experimental characterisation (EPR, XANES, TEM, XPS).</li>
+  <li>High-performance computing on CPU and GPU nodes; validating theoretical predictions and extracting insights from experimental characterisation.</li>
 </ul>
 
 ## Contacting Me
