@@ -7,7 +7,7 @@ permalink: /publication/2025-10-30-ML-hubbard-projectors
 excerpt: "We present machine learning-based workflows using symbolic regression and support vector machines to simulataneously optimise Hubbard <em>U</em> values and projectors, enabling accurate and efficient simulations of defects and polarons in transition metal and rare-earth oxides."
 
 date: 2025-10-30
-venue: 'Digital Discovery'
+venue: 'Digital Discovery (DOI: 10.1039/D5DD00292C)'
 citation: 'A. Chaudhari, K. Agrawal and A. J. Logsdail, Machine learning generalised DFT+<em>U</em> projectors in a numerical atom-centred orbital framework, <em>Digital Discovery</em>, 2025, DOI: 10.1039/D5DD00292C'
 ---
 
