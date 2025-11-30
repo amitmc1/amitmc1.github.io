@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 title: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in computational chemistry at Cardiff University, where I integrate advanced AI algorithms with quantum mechanical modelling to develop cost-effective and transferable workflows for materials modelling. I am part of the interdisciplinary Prosperity Partnership Sustainable Catalysis for Clean Growth, working with partners in industry (Johnson Matthey and bp, through the bp-ICAM) and academia (University of Manchester) to advance the fundamental understanding of complex catalytic materials for clean and sustainable energy.
+I am an interdisciplinary researcher at the intersection of machine learning and electronic structure theory to construct accurate predictive models of complex catalytic materials. I am passionate about accelerating the transition to a sustainable energy future through advances in computational modelling, guided by fundamental scientific research, with the power to transform society.
+
+<p></p>
+I have recently completed my PhD in computational chemistry at the Cardiff Catalysis Institute, supervised by Dr Andrew Logsdail, and previously completed my MSc in molecular modelling at University College London and MEng in chemical engineering at the University of Birmingham. I am passionate about accelerating the transition to a sustainable energy future, 
+
+<p></p>
 
 ## Research Interests and Experience
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files 
