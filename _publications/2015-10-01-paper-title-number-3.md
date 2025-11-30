@@ -2,6 +2,7 @@
 title: "Polymorph-Induced Reducibility and Electron Trapping Energetics of Nb and W Dopants in TiO<sub>2</sub>"
 collection: publications
 category: manuscripts
+share: false
 permalink: /publication/2025-08-19-Hubbard-EPR-TiO2
 
 excerpt: "We investigate atomistic origin of the preferential formation of paramagnetic Nb<sup>4+</sup> and W<sup>5+</sup> species in Nb- and W-doped rutile TiO<sub>2</sub> <em>vs.</em> non-magnetic Nb<sup>5+</sup> and W<sup>6+</sup> species in doped anatase TiO<sub>2</sub>. This is achieved using a combination of theory (Hubbard corrected density functional theory) and experiment (powder electron paramagnetic resonance spectroscopy)."
