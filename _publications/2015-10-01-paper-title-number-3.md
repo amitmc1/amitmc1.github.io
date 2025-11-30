@@ -12,7 +12,7 @@ citation: 'A. Chaudhari, A. J. Logsdail and A. Folli, Polymorph-Induced Reducibi
 ---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/EPR_abstract.png" alt="Graphical Abstract" style="max-width: 400px; width: 100%; border-radius: 0px;">
+  <img src="{{ site.baseurl }}/images/EPR_abstract.png" alt="Graphical Abstract" style="max-width: 600px; width: 100%; border-radius: 0px;">
 </p>
 
 ## Abstract
