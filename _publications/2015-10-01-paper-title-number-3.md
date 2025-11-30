@@ -8,7 +8,7 @@ permalink: /publication/2025-08-19-Hubbard-EPR-TiO2
 excerpt: "We investigate the atomic-level origin of the experimentally observed formation of paramagnetic Nb<sup>4+</sup> and W<sup>5+</sup> species in Nb- and W-doped rutile TiO<sub>2</sub> <em>vs.</em> non-magnetic Nb<sup>5+</sup> and W<sup>6+</sup> species in doped anatase TiO<sub>2</sub>. This is achieved using a combination of theory (Hubbard corrected density functional theory) and experiment (powder electron paramagnetic resonance spectroscopy)."
 
 date: 2025-08-19
-venue: 'The Journal of Physical Chemistry C (DOI: 10.1021/acs.jpcc.5c04364)'
+venue: <a href="https://doi.org/10.1021/acs.jpcc.5c04364" target="_blank">The Journal of Physical Chemistry C</a>
 citation: 'A. Chaudhari, A. J. Logsdail and A. Folli, Polymorph-Induced Reducibility and Electron Trapping Energetics of Nb and W Dopants in TiO<sub>2</sub>, <em>The Journal of Physical Chemistry C</em>, 2025, 129 (34), 15453-15461, DOI: 10.1021/acs.jpcc.5c04364'
 ---
 
