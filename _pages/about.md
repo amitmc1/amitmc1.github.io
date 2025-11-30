@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher at the intersection of machine learning and electronic structure theory to construct accurate predictive models of complex catalytic materials. I am passionate about accelerating the transition to a sustainable energy future through advances in computational modelling, guided by fundamental scientific research, with the power to transform society.
+I am an interdisciplinary researcher at the <strong>"intersection of machine learning and electronic structure theory"</strong> to construct accurate predictive models of complex catalytic materials. I am passionate about accelerating the transition to a sustainable energy future through advances in computational modelling, guided by fundamental scientific research, with the power to transform society.
 
 <p></p>
-I have recently completed my PhD in computational chemistry at the Cardiff Catalysis Institute, supervised by Dr Andrew Logsdail, and previously completed my MSc in molecular modelling at University College London and MEng in chemical engineering at the University of Birmingham. I am passionate about accelerating the transition to a sustainable energy future, 
+
+I have recently completed my <strong>"PhD in computational chemistry"</strong> at the Cardiff Catalysis Institute, supervised by Dr Andrew Logsdail, in collaboration with Johnson Matthey and bp. I previously completed my <strong>"MSc in molecular modelling"</strong> at University College London, under the supervision of Sir Richard Catlow, and my <strong>"MEng in chemical engineering"</strong> at the University of Birmingham, under the supervision of Professor Gary Leeke. 
 
 <p></p>
 
