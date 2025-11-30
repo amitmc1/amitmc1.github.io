@@ -19,7 +19,7 @@ I have recently completed my <strong>PhD in computational chemistry</strong> at 
 <ul>
   <li>Electronic structure modelling of defects and polarons in complex oxides, including DFT+<em>U</em> and hybrid-DFT.</li>
 
-  <li>Accelerating materials modelling using deep learning, including exchange–correlation functionals and machine-learned interatomic potentials.</li>
+  <li>Accelerating materials modelling using deep learning, including exchange-correlation functionals and machine learned interatomic potentials.</li>
 
   <li>Integrated workflows for scientific machine learning, incorporating symbolic regression, support vector machines, and Bayesian optimisation.</li>
 
@@ -29,4 +29,4 @@ I have recently completed my <strong>PhD in computational chemistry</strong> at 
 </ul>
 
 ## Contacting Me
-I am more than happy to chat with colleagues and students who share an interest in this work. If you would like to learn more, collaborate, or seek guidance on related topics, please feel free to contact me by email or connect with me on LinkedIn.
+I am always happy to chat with colleagues and students who share an interest in this work. If you would like to learn more, collaborate, or seek guidance on related topics, please feel free to contact me by email or connect with me on LinkedIn.
