@@ -2,6 +2,7 @@
 title: "Machine Learning Generalised DFT+<em>U</em> Projectors in a Numerical Atom-Centred Orbital Framework"
 collection: publications
 category: manuscripts
+share: false
 permalink: /publication/2025-10-30-ML-hubbard-projectors
 
 excerpt: "We present machine learning-based workflows using symbolic regression and support vector machines to simulataneously optimise Hubbard <em>U</em> values and projectors, enabling accurate and efficient simulations of defects and polarons in transition metal and rare-earth oxides."
