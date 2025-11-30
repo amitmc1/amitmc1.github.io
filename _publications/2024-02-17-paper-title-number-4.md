@@ -4,7 +4,7 @@ collection: publications
 category: pre-prints
 permalink: /publication/2024-02-17-paper-title-number-4
 
-excerpt: "We investigate the metal oxide support effects controlling the sulfur tolerance of Ni-based catalysts for methane steam reforming. This is achieved using a a range of theoretical methods; including DFT-parameterised Monte Carlo sampling of a lattice model of S and O adsorption on Ni(111), adlayer validation with a fine-tuned machine learned interatomic potential and DFT+<em>U</em> simulations of the defect chemistry in common support materials. The predictions are used to rationalise the results of experimental characterisation and methane steam reforming activity testing for H<sub>2</sub>S-poisoned Ni nanoparticle catalysts. 
+excerpt: "We investigate the metal oxide support effects controlling the sulfur tolerance of Ni-based catalysts for methane steam reforming. This is achieved using a a range of theoretical methods; including DFT-parameterised Monte Carlo sampling of a lattice model of S and O adsorption on Ni(111), adlayer validation with a fine-tuned machine learned interatomic potential and DFT+<em>U</em> simulations of the defect chemistry in common support materials. The predictions are used to rationalise the results of experimental characterisation and methane steam reforming activity testing for H<sub>2</sub>S-poisoned Ni nanoparticle catalysts." 
 
 date: 2025-10-30
 venue: 'ChemRxiv'
