@@ -12,7 +12,7 @@ citation: 'A. Chaudhari, P. Stishenko, A. Hiregange, C. Hawkins, M. Sarwar, S. P
 ---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/S_abstract.png" alt="Graphical Abstract" style="max-width: 400px; width: 100%; border-radius: 0px;">
+  <img src="{{ site.baseurl }}/images/S_abstract.png" alt="Graphical Abstract" style="max-width: 600px; width: 100%; border-radius: 0px;">
 </p>
 
 ## Abstract
