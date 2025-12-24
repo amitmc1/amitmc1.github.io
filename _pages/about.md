@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher at the intersection of <strong>machine learning</strong> and <strong>electronic structure theory</strong> for modelling complex catalytic materials. I am passionate about accelerating the transition to a sustainable energy future through advances in scientific computing, guided by fundamental theory in physics and chemistry, with the power to transform society.
+I am an interdisciplinary researcher at the intersection of <strong>machine learning</strong> and <strong>electronic structure theory</strong> for modelling complex catalytic materials. I am passionate about accelerating the transition to a sustainable energy future through advances in scientific computing, guided by fundamental theory in physics and chemistry.
 
 <p></p>
 
